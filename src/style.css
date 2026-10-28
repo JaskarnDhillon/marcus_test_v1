@@ -1,0 +1,17 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: #1e293b;
+  background: #f1f5f9;
+}
+
+main {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 24px;
+  background: white;
+}
+
+/* TODO: Style the label, input, table, and cells. Keep the page usable on mobile. */
